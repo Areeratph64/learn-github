@@ -1,1 +1,2 @@
 # learn-github
+Web development is the process of creating websites and web applications for the internet. It involves various technologies such as HTML, CSS, and JavaScript to build and design user interfaces. Backend development often includes server-side languages like PHP, Python, or Node.js to handle data and server operations. A well-developed website should be fast, responsive, and user-friendly. Web developers must also ensure security and accessibility to provide a good experience for all users
